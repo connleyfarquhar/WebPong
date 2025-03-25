@@ -1,5 +1,4 @@
-# WebPong!
-##### Side-Project, Web Based Pong Game
+###### Side-Project, Web Based Pong Game
 
 ![webpong](https://github.com/user-attachments/assets/fc03af85-536b-462a-a40b-786138507ce2)      
 
