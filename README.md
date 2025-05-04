@@ -2,5 +2,5 @@
 ###### Side-Project, Browser Based Pong Game!
 
 
-In-Between active project development i wanted to give my hand at creating a Simple Pong game that functions purely in a Modern Web Browser of choice.    
-Even if the project is successful or not, it remains an interesting alternative project to have worked on!            
+In-Between active project development i wanted to give my hand at creating a Simple Pong game that functions purely in a Modern Web Browser of choice, this pong game will be no different to the hundereds of projects already existing, extended features may be considered in development.    
+Even if the project is successful or not, it remains an interesting alternative project to have worked on.         
